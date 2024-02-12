@@ -2,6 +2,13 @@
 
 ![Screenshot (130)](https://github.com/opi1001/Day_16/assets/134625691/61934384-bfc4-4569-b66a-6c4d96305731)
 
+"🚀 Just completed Flutter's Expanded widgets and BMI Calculate design! 📱 
+Mastering dynamic layouts and functional features. 💡 
+Excited to implement flexible content scaling and BMI calculations in my projects.🌐 
+From responsive designs to health-focused functionalities, every detail enhances user experience. 
+Ready for the next challenge in mobile app development.
+Let's connect and explore more Flutter features together!
+
 
 ## Getting Started
 
